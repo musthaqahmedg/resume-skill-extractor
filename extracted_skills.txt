@@ -1,0 +1,21 @@
+Resume file: sample.pdf
+
+Programming Languages:
+ - Python
+
+ML / DL Frameworks:
+ - Tensorflow
+ - Pytorch
+
+Data Engineering / Databases:
+ - None found
+
+Cloud Platforms:
+ - Aws
+ - Gcp
+
+Tools / DevOps:
+ - Docker
+ - Kubernetes
+ - Git
+
